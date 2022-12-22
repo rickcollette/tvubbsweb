@@ -1,0 +1,4 @@
+Sitemap: https://thevulgarunicorn.net/sitemapindex.xml
+
+User-Agent: *
+Host: thevulgarunicorn.net
