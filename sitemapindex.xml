@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://thevulgarunicorn.net/galleries/rss.xml</loc>
-  <lastmod>2022-12-22T18:01:00Z</lastmod>
+  <lastmod>2022-12-22T18:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://thevulgarunicorn.net/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://thevulgarunicorn.net/sitemap.xml</loc>
-  <lastmod>2022-12-22T18:03:00Z</lastmod>
+  <lastmod>2022-12-22T18:13:00Z</lastmod>
  </sitemap>
 </sitemapindex>
